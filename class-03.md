@@ -1,6 +1,6 @@
 # Earthdate 25022020
 ## Lists
-•	**Ordered lists** are lists where each item in the list is numbered
+•	**Ordered lists** are lists where each item in the list is numbered  
         ```
         <ol>
             <li>Chop cabbage</li>
