@@ -79,13 +79,24 @@ If you forget to declare a variable using the *var* keyword, it will be automati
 ## 6 Reasons for Pair Programming
 
 1. Greater efficiency
+    - takes slightly longer, but produces higher-quality code
+    - conversation facilitates faster problem solving
+    - research shows enhanced technical skills, team communication, and enjoyability of coding
 
 2. Engaged collaboration
+    - accountability - hard to procrastinate or get off track
+    - team reliance lowers the need for outside help
 
 3. Learning from fellow students
+    - expose people to more diverse opinions and work-styles
+    - sharing and developing more rounded skill-set
 
 4. Social skills
+    - communication is key
+    - people will learn to work well with others
 
 5. Job interview readiness
+    - prepare job applicants for interview collaborations
 
 6. work environment readiness
+    - familiarity with industry standard work practices surrounding teamwork
