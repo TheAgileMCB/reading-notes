@@ -71,3 +71,21 @@ If you put a function where the interpreter would expect to see an expression, t
 
 #### Variable Scope
 
+The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variables **scope**. Specifically, this variable has **local scope**. If you create a variable *outside* of a function, then it can be used anywhere within the script. This is known as **global scope**.  
+
+If you forget to declare a variable using the *var* keyword, it will be automatically treated as a *global* variable. Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded. Local variables are only remembered during the period of time that the function is being executed.  
+
+
+## 6 Reasons for Pair Programming
+
+1. Greater efficiency
+
+2. Engaged collaboration
+
+3. Learning from fellow students
+
+4. Social skills
+
+5. Job interview readiness
+
+6. work environment readiness
