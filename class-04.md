@@ -35,9 +35,9 @@ CSS has the following **positioning schemes**:
         - this positions the element in relation to its containing element. It is taken out of normal flow, meaning that it does not affect the position of any surrounding elements.  
 
 You specify the positioning scheme using the *position* property in CSS. You can also float elements using the *float* property. To indicate where a box should be positioned, you may also need to use **box offset** properties to tell the browser how far from the top or bottom and left or right it should be placed.  
-    - **Fixed positioning** is a form of absolute positioning that positions the element in relation to the browser window, as opposed to the containing element.  
-    - **Floating elements** allows you to take that element out of normal flow and position it to the far left or right of a containing box. The floated element becomes a block-level element around which other content can flow.  
-    - the **z-index** property allows you to control which box appears on top when elements are floated
+    * **Fixed positioning** is a form of absolute positioning that positions the element in relation to the browser window, as opposed to the containing element.  
+    * **Floating elements** allows you to take that element out of normal flow and position it to the far left or right of a containing box. The floated element becomes a block-level element around which other content can flow.  
+    * the **z-index** property allows you to control which box appears on top when elements are floated
 
 
 ## JavaScript&Jquery Chapter 3
@@ -81,24 +81,24 @@ If you forget to declare a variable using the *var* keyword, it will be automati
 ## 6 Reasons for Pair Programming
 
 1. Greater efficiency
-    - takes slightly longer, but produces higher-quality code
-    - conversation facilitates faster problem solving
-    - research shows enhanced technical skills, team communication, and enjoyability of coding
+    * takes slightly longer, but produces higher-quality code
+    * conversation facilitates faster problem solving
+    * research shows enhanced technical skills, team communication, and enjoyability of coding
 
 2. Engaged collaboration
-    - accountability - hard to procrastinate or get off track
-    - team reliance lowers the need for outside help
+    * accountability - hard to procrastinate or get off track
+    * team reliance lowers the need for outside help
 
 3. Learning from fellow students
-    - expose people to more diverse opinions and work-styles
-    - sharing and developing more rounded skill-set
+    * expose people to more diverse opinions and work-styles
+    * sharing and developing more rounded skill-set
 
 4. Social skills
-    - communication is key
-    - people will learn to work well with others
+    * communication is key
+    * people will learn to work well with others
 
 5. Job interview readiness
-    - prepare job applicants for interview collaborations
+    * prepare job applicants for interview collaborations
 
 6. work environment readiness
-    - familiarity with industry standard work practices surrounding teamwork
+    * familiarity with industry standard work practices surrounding teamwork
