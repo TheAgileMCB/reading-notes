@@ -4,7 +4,9 @@
 
 ### Links
 
-#<a href="http://www.imdb.com">IMDB</a>
+```
+<a href="http://www.imdb.com">IMDB</a>
+```
 
 The content with in the first pair of angle brackets is the **opening link tag**. The *</a>* element is the closing link tag. and the content between the two tags is the clickable link.  
 Users will be taken to the page specified in the href attribute. When you link to a differet website, the value of the href attribute will be the full web address for the site, known as an **absolute** URL. When you link to other pages within the same site, you do not need to specify the domain name in the URL. You can use a shorthand known as a **relative** URL.
