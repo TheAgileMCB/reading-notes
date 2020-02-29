@@ -88,4 +88,34 @@
 * the **text-transform** property is used to change the case of text giving it one of the following values:  
     * **uppercase** - causes the text to appear uppercase  
     * **lowercase** - causes the text to appear lowercase  
-    * **capitalize** - causes the first letter of each word to appear capitalized
+    * **capitalize** - causes the first letter of each word to appear capitalized  
+* the **Text-decoration** property allows you to specify the following values:  
+    * **none** - removes any decoration already applied to the text  
+    * **underline** - adds a line underneath the text  
+    * **overline** - adds a line over the top of text  
+    * **line-through** - adds a line through words  
+    * **blink** - animates the text to make it flash on and off  
+* **line-height** or **leading** - the vertical space between lines of text  
+* **letter-spacing** or **kerning** - the term for the space between each letter  
+* **word-spacing** - the gaps between words  
+* the **text-align** property allows you to control the alignment of text - can take one of four values: left, right, center, justify  
+ * the **vertical-align** property is not intended to allow you to vertically align text in the middle of a block level element such as *<p>* or *<div>*. It is more commonly used with inline elements such as *<img>*, *<em>*, or *<strong>*  
+ * the **text-indent** property allows you to indent the first line of text within an element
+ * the **text-shadow** property is ise to create a drop shadow, which is a dark version of the word just behind it and slightly offset
+
+ ```css
+ p {
+ text-shadow: 1px 1px 0px #000000;
+ }
+ ```
+
+    * the first length indicates how far left or right the shadow should fall
+    * the second value indicates the distance to the top or bottom that the shadow should fall
+    * the third value is optional and specifies the amount of blur that should be applied to the drop shadow
+* you can specifiy different values for the first letter or the first line of text inside an element using **:first-letter** and **:first-line**. These are not properties, but **pseudo-elements**
+* in CSS, there are two **pseudo-classes** that allow you to set differnt styles for links that have and have not yet been visited:
+    * **:link** - sets styles for links not yet visited
+    * **:visited** - sets styles for links that have been visited
+* **:hover** is applied when a user hovers over an element with a pointing device
+* **:active** is applied when an element is being activated by a user, like a clicked button
+* **:focus** is applied to an element having focus - any element you can click on or any form you can control
