@@ -109,9 +109,9 @@
  }
  ```
 
-    * the first length indicates how far left or right the shadow should fall
-    * the second value indicates the distance to the top or bottom that the shadow should fall
-    * the third value is optional and specifies the amount of blur that should be applied to the drop shadow
+  *  the first length indicates how far left or right the shadow should fall
+  * the second value indicates the distance to the top or bottom that the shadow should fall
+  * the third value is optional and specifies the amount of blur that should be applied to the drop shadow
 * you can specifiy different values for the first letter or the first line of text inside an element using **:first-letter** and **:first-line**. These are not properties, but **pseudo-elements**
 * in CSS, there are two **pseudo-classes** that allow you to set differnt styles for links that have and have not yet been visited:
     * **:link** - sets styles for links not yet visited
