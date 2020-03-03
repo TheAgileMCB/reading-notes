@@ -72,19 +72,64 @@ _____________
 
 9. A function created at the top level of a script is considered in the ______________.
 
+10. An ______________ is a group of objects, each of which represent related things from the real world.
 
-**Terms**
+11. The ______________ creates a model of the browser tab or window.
 
-object-oriented model  
-initialize  
+12. The _______________ creates a model of the current web page.
+
+13. The ________________ are a group of individual objects that relate to different parts of the JavaScript language.
+
+14. A ______________ represents information in a grid format.
+
+15. The headings of the table should be in the <_______> element.
+
+16. The body of a table should be in the <_______> element.
+
+The footer of the table belongs in the <______> element.
+
+16. Place the missing table tags:
+  
+  <_______>
+      <___>
+          <___><___>
+          <___ scope="col">Saturday<___>
+          <___ scope="col">Sunday<___>
+      <___>
+      <___>
+          <___ scope="row">Tickets sold:<___>
+          <___>120<___>
+          <___>135<___>
+      <___>
+      <___>
+          <___ scope="row">Total sales:<___>
+          <___>$600<___>
+          <___>$675<___>
+      <___>
+  <_______>
+
+
+#### Terms
+
+  
+tfoot  
 instantiate  
+object model 
+initialize  
+browser object model  
+document object model  
 wrapper object  
+interger  
 index number  
-string  
+floating point number  
+tbody  
 boolean  
 number  
+global javascript objects  
+table  
+thead  
 undefined  
 null  
-interger  
-floating point number  
 global scope  
+object-oriented model   
+string  
