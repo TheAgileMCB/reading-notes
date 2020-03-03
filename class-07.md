@@ -89,7 +89,7 @@ _____________
 17. The footer of the table belongs in the <______> element.
 
 18. Place the missing table tags:
-  
+ ``` 
   <_______>  
       <___>  
           <___><___>  
@@ -107,6 +107,7 @@ _____________
           <___>$675<___>  
       <___>  
   <_______>  
+```
 
 
 #### Terms
