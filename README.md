@@ -13,12 +13,17 @@ Hi. I'm Matthew Barnhart. (he/him) I'm Iowa's first Digital Marketing/Developer 
 
 ### Table of Contents
 - [x] [Entry 24022020 (class-01)](class-01.md)
-- [ ] [Entry 2522020 (class-02)](class-02.md)
-- [x] [Entry 2622020 (class-03)](class-03.md)
-- [x] [Entry 2722020 (class-04)](class-04.md)
-- [x] [Entry 2822020 (class-05)](class-05.md)
+- [ ] [Entry 25022020 (class-02)](class-02.md)
+- [x] [Entry 26022020 (class-03)](class-03.md)
+- [x] [Entry 27022020 (class-04)](class-04.md)
+- [x] [Entry 28022020 (class-05)](class-05.md)
 - [x] [Entry 02032020 (class-06)](class-06.md)
-- [ ]
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] [Entry 03032020 (class-07)](class-07.md)
+- [ ] [Entry 04032020 (class-08)](class-08.md)
+- [ ] [Entry 05032020 (class-09)](class-09.md)
+- [ ] [Entry 06032020 (class-10)](class-10.md)
+- [ ] [Entry 09032020 (class-11)](class-11.md)
+- [ ] [Entry 10032020 (class-12)](class-12.md)
+- [ ] [Entry 11032020 (class-13)](class-13.md)
+- [ ] [Entry 12032020 (class-14)](class-14.md)
+- [ ] [Entry 13032020 (class-15)](class-15.md)
