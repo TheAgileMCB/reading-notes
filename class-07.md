@@ -88,7 +88,8 @@ _____________
 
 17. The footer of the table belongs in the <______> element.
 
-18. Place the missing table tags:
+18. Place the missing table tags:  <br>
+
  ```html  
   <_______>  
       <___>  
@@ -110,27 +111,27 @@ _____________
 ```   
 
 
-#### Terms
+#### Terms  <br>
 
   
-tfoot  
-instantiate  
-object model 
-initialize  
-browser object model  
-document object model  
-wrapper object  
-interger  
-index number  
-floating point number  
-tbody  
-boolean  
-number  
-global javascript objects  
-table  
-thead  
-undefined  
-null  
-global scope  
-object-oriented model   
-string  
+tfoot  <br>
+instantiate  <br>
+object model  <br>
+initialize  <br>
+browser object model  <br>
+document object model  <br>
+wrapper object  <br>
+interger  <br>
+index number  <br>
+floating point number  <br>
+tbody  <br>
+boolean  <br>
+number  <br>
+global javascript objects  <br>
+table  <br>
+thead  <br>
+undefined  <br>
+null  <br>
+global scope  <br>
+object-oriented model  <br> 
+string  <br>
