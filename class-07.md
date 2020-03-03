@@ -86,27 +86,27 @@ _____________
 
 16. The body of a table should be in the <_______> element.
 
-The footer of the table belongs in the <______> element.
+17. The footer of the table belongs in the <______> element.
 
-16. Place the missing table tags:
+18. Place the missing table tags:
   
-  <_______>
-      <___>
-          <___><___>
-          <___ scope="col">Saturday<___>
-          <___ scope="col">Sunday<___>
-      <___>
-      <___>
-          <___ scope="row">Tickets sold:<___>
-          <___>120<___>
-          <___>135<___>
-      <___>
-      <___>
-          <___ scope="row">Total sales:<___>
-          <___>$600<___>
-          <___>$675<___>
-      <___>
-  <_______>
+  <_______>  
+      <___>  
+          <___><___>  
+          <___ scope="col">Saturday<___>  
+          <___ scope="col">Sunday<___>  
+      <___>  
+      <___>  
+          <___ scope="row">Tickets sold:<___>  
+          <___>120<___>  
+          <___>135<___>  
+      <___>  
+      <___>  
+          <___ scope="row">Total sales:<___>  
+          <___>$600<___>  
+          <___>$675<___>  
+      <___>  
+  <_______>  
 
 
 #### Terms
