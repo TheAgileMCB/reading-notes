@@ -3,8 +3,6 @@
 # Forms, Lists, Tables, and Events
 
 ## Forms
-
-###Form
 * the form controls live inside this element  
   * **action** - a required element, it's value is the URL for the page on the server that will recieve the information in the form  
   * **method** - forms can be sent using one of two:  
@@ -71,7 +69,7 @@
   * **ollapse** collapses borders to a single border where possible  
   * **separate** detaches borders from each other  
 
-#### Cursor
+### Cursor
 
 The cursor property allows you to control the type of mouse cursor that should be displayed  
 
@@ -88,7 +86,7 @@ The cursor property allows you to control the type of mouse cursor that should b
 
 ## Events Definition Match
 
-##### Definitions
+### Definitions
 
 1. Web page has finished loading
 2. Web page is unloading
@@ -122,7 +120,7 @@ The cursor property allows you to control the type of mouse cursor that should b
 30. Node has been removed as a descendant of another node
 
 
-##### Terms
+### Terms
 
 - focus / focusin
 - select
