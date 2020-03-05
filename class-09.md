@@ -66,7 +66,7 @@
 * background-color - change background color of specific cells  
 * :hover - create hover effect over specified content  
 * **border-spacing** controls the distance between adjacent cells  
-  * **ollapse** collapses borders to a single border where possible  
+  * **collapse** collapses borders to a single border where possible  
   * **separate** detaches borders from each other  
 
 ### Cursor
