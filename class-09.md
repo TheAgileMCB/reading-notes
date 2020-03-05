@@ -86,5 +86,71 @@ The cursor property allows you to control the type of mouse cursor that should b
 - url("cursor.gif");
 
 
-## Events
+## Events Definition Match
 
+##### Definitions
+
+1. Web page has finished loading
+2. Web page is unloading
+3. Browser encounters a JavaScript error or an asset doesn't exist
+4. Browser window has been resized
+5. User has scrolled up or down the page
+6. User first presses a key
+7. User releases a key
+8. Character is being inserted (repeats while key is depressed)
+9. User presses and releases a button over the same element
+10. User presses and releases the button twice over the same element
+11. User presses a mouse button while over an element
+12. User releases a mouse button while over an element
+13. User moves the mouse (not on a touchscreen)
+14. User moves the mouse over an element (not on a touchscreen)
+15. User moves the mouse off an element (not on a touchscreen)
+16. Element gains focus
+17. Element loses focus
+18. Value in any input or textarea element has changed
+19. Value in select box, checkbox, or radio button changes
+20. User submits a form (using a button or key)
+21. User clicks on a form's reset button
+22. User cuts content from a form field
+23. User copies content from a form field
+24. User pastes content into a form field
+25. User selects some text in a form field
+26. Change has been made to document
+27. Node has been inserted as a direct child of another node
+28. Node has been removed from another node
+29. Node has been inserted as a descendant of another node
+30. Node has been removed as a descendant of another node
+
+
+##### Terms
+
+- focus / focusin
+- select
+- click
+- dblclick
+- DOMNodeInserted
+- submit
+- reset
+- cut
+- DOMNodeRemovedFromDocument
+- input
+- change
+- mousedown
+- mouseup
+- DOMNodeInsertedIntoDocument
+- mouseout
+- keydown
+- unload
+- copy
+- mouseover
+- paste
+- DOMNodeRemoved
+- error
+- resize
+- mousemove
+- blur / focusout
+- DOMSubtreeModified
+- keyup
+- keypress
+- load
+- scroll
