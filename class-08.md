@@ -1,6 +1,6 @@
 #### Earthdate04032020
 
-# HTML / CSS / Layout Fill-in-the-Blank
+## HTML / CSS / Layout Fill-in-the-Blank
 
 1. ___________ treats each _________ element as if it is in its own box. This box will either be a ____________ box or an _____________ box.
 
@@ -24,24 +24,44 @@
 
 11. The _____________ element allows you to say that no element (within the same containing element) should touch the left or righthand sides of a box.
 
+12. The purely CSS solution for the problem for parents of floated elements is:
+
+```css
+div {
+  border: 1px solid #fff;
+  _____: ____;
+  _____: 100%;
+}
+```
+
+13. ___________ layout designs stretch and contract as the user increases or decreases the size of their browser window.
+
+14. ___________ layout designs do not change size as the user increases or decreases the size of their browser window.
+
+
 ### Terms
 
-- relative
-- z-index
-- HTML
-- clear
-- CSS
 - block-level
-- fixed
-- inline
-- containing
-- absolute
-- parent
-- relative positioning
-- absolute positioning
+- z-index
+- fixed width
 - positioning scheme
 - position **x4**
+- HTML
+- clear
+- absolute positioning
+- width
+- liquid
 - normal flow
 - box offset
 - fixed positioning
 - floating elements
+- absolute
+- parent
+- auto
+- containing
+- fixed
+- inline
+- relative
+- CSS
+- overflow
+- relative positioning
