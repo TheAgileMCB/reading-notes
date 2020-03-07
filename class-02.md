@@ -20,24 +20,39 @@
 
 9. You can also include CSS rules within an HTML page using the <___> element.
 
-Properties like font-family are _________ by child elements in CSS, so you don't have to apply these properties to as many elements, whereas background-color or border properties are not.
+10. Properties like font-family are _________ by child elements in CSS, so you don't have to apply these properties to as many elements, whereas background-color or border properties are not.
 
+11. Each item in an array is automatically given a number called an _________.
 
+12. An _________ evaluates into a single value. 
 
+13. Programmers call the process of joining together two or more strings to create one new string __________.
+
+14. There are two components to a decision:
+An __________ is evaluated, which returns a ________
+A ___________ statement says what to do in a given situation.
+
+15. A ________ statement starts with a variable called the ______ value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
 
 
 
 ### Terms
 
-- six
+- switch **x2**
 - HTML
-- p
-- inherited
+- style
+- index
 - b
-- i
+- expression **X2**
 - sup
-- sub
-- br
+- conditional
 - hr
 - link
-- style
+- p
+- inherited
+- br
+- concatenation
+- sub
+- six
+- value
+- i
