@@ -2,7 +2,7 @@
 
 # Googly Analytics
 
-Google Analytics is a free analytics tool provided by Google. (Duh, right?) But what does that really mean?
+**Google Analytics** is a free analytics tool provided by Google. (Duh, right?) But what does that really mean?
 
 Google Analytics works by recording date about how users interact with web sites, then presents it to clients in the form of in-depth tables, charts, and graphs. Analytics tracks *everything*--how many people visit your page, how many of those users are or aren't repeat viewers; which pages they look at on your site, how many times, and for how long; on what page they enter your site, and on what page they decide to leave; if they purchase anything in your online store, what they purchase, and how much; and more!
 
