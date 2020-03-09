@@ -1,6 +1,6 @@
-# Earthdate 25022020
-## HTML Chapter 1
-### Structural Markup
+#### Earthdate 25022020
+# HTML Chapter 1
+## Structural Markup
 The elements that you can use to describe both headings and paragraphs
 -	**headings** (h1, h2, h3, h4, h5, h6) – main headings down to 5 levels of subheadings  
 -	**paragraphs** (<p></p>) – to create a paragraph, surround with open and closing tags  
@@ -12,7 +12,7 @@ The elements that you can use to describe both headings and paragraphs
 -	**Line breaks** (<br />) – to add a line break within a paragraph without creating a new division  
 -	**Horizontal Rules** (<hr />) – to create a break between themes such as a change of topic in a book or a new scene in a play  
 
-### Semantic Markup
+## Semantic Markup
 Provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, etc.
 -	**<strong></strong>** - indicates that its content has strong importance  
 -	**<em></em>** - indicates emphasis that subtly changes the meaning of a sentence  
@@ -26,8 +26,8 @@ Provides extra information; such as where emphasis is placed in a sentence, that
 -	**<del></del>** - can show text that has been deleted from a document
 -	**<s></s>** - indicates something that is no long accurate or relevant (but that should not be deleted)
 
-## HTML Chapter 8
-### CSS
+# HTML Chapter 8
+## CSS
 # p {
 # font-family: Arial;}
 *p* is the **selector**  
@@ -35,7 +35,7 @@ Provides extra information; such as where emphasis is placed in a sentence, that
 *font-family* is the **property**  
 *Arial* is the **value**  
 
-### CSS Selectors
+## CSS Selectors
 **Universal Selector** - * {}  
 **Type Selector** - h1, h2, h3 {}  
 **Class Selector** - .note {}  
@@ -45,8 +45,8 @@ Provides extra information; such as where emphasis is placed in a sentence, that
 **Adjacent Sibling Selector** - h1+p {}  
 **General Sibling Selector** - h1~p {}  
 
-## HTML Chapter 17
-### Semantic HTML
+# HTML Chapter 17
+## Semantic HTML
 **<header>** and **<footer>** - the main header and footer that appears at the top or bottom of every page or a header or footer for an individual *<article>* or *<section>* within the page  
 **<nav>** - used to contain the major navigational blocks on the site such as the primary site navigation  
 **<article>** - acts as a container for any section of a page that could stand alone and potentially be syndicated  
@@ -56,7 +56,7 @@ Provides extra information; such as where emphasis is placed in a sentence, that
 **<figure>** and **<figcaption>** - can be used to contain content that is referenced from the main flow of an article (not just images). The *<figure>* element should always contain a *<figcaption>* element which provides a text description for the content of the *<figure>* element  
 **<div>** - use where there is no suitable element to group a set of elements  
 
-## HTML Chapter 18
+# HTML Chapter 18
 -	Each website should be design for the target audience
 -	Even if the site has wide appeal, you can still think about the demographics of a sample of the target audience
 -	Invent some fictional visitors from your typical target audience
@@ -83,7 +83,7 @@ o	Do they see spending time on this activity as essential or a luxury?
 -	Interactive – each link should be big enough to click on and the appearance of the link should change when the user hovers over each item or clicks on it
 -	Consistent – it is best to keep primary navigation exactly the same, particularly as sites become larger
 
-## JavaScript Chapter 1
+# JavaScript Chapter 1
 A **script** is a series of instructions that a computer can follow to achieve a goal, like a recipe, a handbook, or a manual. To write a script, you first need to state your goal and then list the tasks that need to be completed in order to achieve it.  
 Start with the big picture of what you want to achieve, and break them down into smaller steps.
 1. **Define the goal** – first, define the task you want to achieve
@@ -94,17 +94,17 @@ Start with the big picture of what you want to achieve, and break them down into
 **Objects (Things)** - in computer programming, each physical thing in the world can be represented as an **object**.  Each object can have its own **properties**, **events**, and **methods**.  
 **Properties (Characteristics)** - each property has a **name** and a **value**, and each of these name/value pairs tells you something about each individual instance of the object
 
-### Events
+## Events
 Programs are designed to do different things when users interact with the computer in different ways. An **event** is the computers wat of sticking up its hand to say, “Hey, this just happened!” When an event happens, it can be used to trigger specific sections of the code.
 
-### Methods
+## Methods
 **Methods** typically represent how people or other things interact with an object in the real world. The code for a method can contain lots of instructions that together represent one task.  
 
 **Web browsers are programs built using objects** The **Window Object** is representing by the browser. The **Document Object** models the current webpage loaded into each window.
 
-### HTML, CSS, JavaScript
+## HTML, CSS, JavaScript
 Web pages are most commonly broken down into three primary languages – HTML, CSS, and JavaScript. HTML is where the content of a page lives. It gives the page structure and adds semantics. CSS is the presentation layer, enhancing and styling the HTML elements. JavaScript is the behavior layer, adding interactivity and other dynamic features.
 
-### Objects & Methods
+## Objects & Methods
 # Document.write(‘Good afternoon!’);
 *Document* is known as the **object**. The document object represents the entire webpage. The *write()* **method** of the document object allows new content to be written into the page where the *script* element sits. The dot between *document* and *write* is known as a **member operand**. **Objects** have several **methods** which can be accessed by placing this dot between the object and the method. Each piece of information inside the parentheses of the method is called a **parameter**.
