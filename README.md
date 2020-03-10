@@ -23,7 +23,7 @@ Hi. I'm Matthew Barnhart. (he/him) I'm Iowa's first Digital Marketing/Developer 
 - [x] [Entry 05032020 (class-09)](class-09.md)
 - [x] [Entry 06032020 (class-10)](class-10.md)
 - [x] [Entry 09032020 (class-11)](class-11.md)
-- [ ] [Entry 10032020 (class-12)](class-12.md)
+- [x] [Entry 10032020 (class-12)](class-12.md)
 - [ ] [Entry 11032020 (class-13)](class-13.md)
 - [ ] [Entry 12032020 (class-14)](class-14.md)
 - [ ] [Entry 13032020 (class-15)](class-15.md)
