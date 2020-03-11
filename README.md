@@ -5,7 +5,7 @@
 ![Matthew Barnhart](/images/resume-img.jpg)
 
 ### About Me
-Hi. I'm Matthew Barnhart. (he/him) I'm Iowa's first Digital Marketing/Developer Apprentice.I'm an experienced coffee professional with a demonstrated history of working in the entertainment industry. I'm skilled in analytical thinking, WordPress, employee training, knowledge management, and building strong relationships. I am a strong operations professional with a desire  to use my abilities to grow and market community organizations in service to the arts, ecological and economic sustainability, and the well-being and care for all mankind.
+Hi! I'm Matthew Barnhart. (he/him) I'm Iowa's first Digital Marketing/Developer Apprentice.I'm an experienced coffee professional with a demonstrated history of working in the entertainment industry. I'm skilled in analytical thinking, WordPress, employee training, knowledge management, and building strong relationships. I am a strong operations professional with a desire  to use my abilities to grow and market community organizations in service to the arts, ecological and economic sustainability, and the well-being and care for all mankind.
 
 ## Welcome to GitHub Pages
 
@@ -24,6 +24,6 @@ Hi. I'm Matthew Barnhart. (he/him) I'm Iowa's first Digital Marketing/Developer 
 - [x] [Entry 06032020 (class-10)](class-10.md)
 - [x] [Entry 09032020 (class-11)](class-11.md)
 - [x] [Entry 10032020 (class-12)](class-12.md)
-- [ ] [Entry 11032020 (class-13)](class-13.md)
+- [x] [Entry 11032020 (class-13)](class-13.md)
 - [ ] [Entry 12032020 (class-14)](class-14.md)
 - [ ] [Entry 13032020 (class-15)](class-15.md)
