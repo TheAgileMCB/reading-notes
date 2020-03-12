@@ -1,4 +1,5 @@
 #### Earthdate 12032020.1
+
 # The Perfect Team
 
 Employers have been trying to maximize employee potential since the dawn of business. Countless studies have been performed to analyze individual employee work habits and attitudes to find the key. But what about groups? A *Harvard Business Review* study from 2016 found that "the time spent by managers and employees in collaborative activities has ballooned by 50 percent or more" over the last twenty years and, in many companies, more than 75% of an employees workday is spent communicating with coworkers.  
