@@ -1,0 +1,25 @@
+#### Earthdate 20200527
+# Bootstrap
+*Bootstrap* is a free front-end framework for faster and easier web development. Bootstrap offers multitudinous ways to organize and style applications that are easy, consistent, and scalable. Bootstrap is framed by a responsive grid system and operates by applying pre-designed classes to HTML elements. Each class is a standardized series of related CSS and JavaScript properties that can be combined to make unique and dynamic visual and interactive elements quickly within an application. Some important elements are included here:
+ 
+- **sm, md, lg, xl** - these outline pre-designed break points for column widths
+ 
+- **navbar** - Bootstrap has the power to insert pre-built navbars, tabs, and buttons, even creating collapsible and fixed bars
+ 
+- **no-gutters** - removes element padding
+ 
+- **modal** - easily craft dynamic modal elements with this property. Add transitional elements like fades, too
+ 
+- **data** - this denotes text boxes and other informational elements in Bootstrap
+ 
+- **btn** - creates stylized buttons. Buttons can also be hooked up very easily in HTML elements
+ 
+-**primary, warning, alert** - Applies blue, yellow, and red colors respectively, to most any element including buttons and table columns or rows
+ 
+- **forms** - forms are easier to design than ever on Bootstrap’s grid system
+ 
+- **Cards** - creates a "card" display element that can contain a picture, heading, list, and buttons
+ 
+ 
+ 
+[Bootstrap Cheatsheet!](https://hackerthemes.com/bootstrap-cheatsheet/)
