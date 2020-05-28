@@ -1,0 +1,59 @@
+#### Earthdate 20200527
+## View Layouts
+Layouts exist to provide a consistent experience as users navigate from page to page. They typically include common interface elements like headers, navs, menus, and footers and help reduce duplicate code. These files can also be used to define scripts and stylesheets.
+
+Razor views have a *Layout* property for specifying individual layouts. Layouts can use either full path (/Pages/Shared/_Layout.cshtml) or a partial name (_Layout). The Razor view engine will search these files out. Every layout calls *RenderBody* where the contents of the view will be rendered. What follows is an example of a Razor view layout call:
+```
+@{
+    Layout = "_Layout";
+}
+```
+
+## Partial views
+A *partial view* is a Razor markup file rendered *inside* another markup file's rendered output. Like a tur-duck-in'. They are effective at breaking up large markup files and reducing the duplication of common markup content. However, partial views should *not* be used to maintain common layout elements. This is, again, what Layouts are for. Also, don't use partial views where complex rendering logic or code execution is required to render the markup.
+
+## Partial Tag Helper
+The *partial tag helper* renders content asynchronously and uses HTML-like syntax. The following is a slurry of examples for referencing partials under different circumstances:
+
+```CSHTML
+<partial name="_PartialName" />
+When a file extension is present, the Tag Helper references a partial view that must be in the same folder as the markup file calling the partial view:
+```
+
+```CSHTML
+<partial name="_PartialName.cshtml" />
+The following example references a partial view from the app root. Paths that start with a tilde-slash (~/) or a slash (/) refer to the app root:
+```
+
+Razor Pages
+
+```CSHTML
+<partial name="~/Pages/Folder/_PartialName.cshtml" />
+<partial name="/Pages/Folder/_PartialName.cshtml" />
+```
+
+MVC
+
+```CSHTML
+<partial name="~/Views/Folder/_PartialName.cshtml" />
+<partial name="/Views/Folder/_PartialName.cshtml" />
+```
+
+The following example references a partial view with a relative path:
+
+```CSHTML
+<partial name="../Account/_PartialName.cshtml" />
+```
+
+## Views
+Views work towards the separation of concerns. They separate the user interface from other parts of your application. This kind of modularization makes testing and maintenance easier.
+
+Specific views should be placed in view folders named as such: *Views/[ControllerName]*. Views shared among controllers should be placed in a *Views/Shared* folder. Create views with the same name as their associated controller.
+
+## Tag Helpers
+*Tag Helpers* enable server side code to help render HTML in Razor files. A good example of this is *ImageTagHelper*, which can append a version number to the image name. Then, whenever the image changes, it appends a new unique version for the image. Other tasks tag helpers aid are forms, links, and loading assets. Bullet points of what tag helpers provide:
+
+- An HTML-friendly development experience
+- A rich IntelliSense environment for creating HTML and Razor markup 
+- A way to make you more productive and able to produce more robust, reliable, and maintainable code using information only available on the server
+
